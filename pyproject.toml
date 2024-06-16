@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "personall-assist"
+version = "0.1.0"
+description = "Personal assisstant CLI application"
+authors = ["Vlad P"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
